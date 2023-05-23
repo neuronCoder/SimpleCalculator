@@ -31,7 +31,7 @@
   grid-template-columns: 25% 25% 25% 25%;
 }
 
-button{
+.calculator-button{
   /* border: 2px solid purple; */
   margin: 10%;
   font-size: 139%;

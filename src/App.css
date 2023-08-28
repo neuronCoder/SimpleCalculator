@@ -23,17 +23,14 @@
 .calculatorButtons{
   height: 80vh;
   width: 48vw;
-  /* border: 2px solid green; */
 }
 
 .calculatorButtonRow{
-  /* border: 2px solid purple; */
   display: grid;
   grid-template-columns: 25% 25% 25% 25%;
 }
 
 .calculator-button{
-  /* border: 2px solid purple; */
   margin: 10%;
   font-size:2vw;
 }
